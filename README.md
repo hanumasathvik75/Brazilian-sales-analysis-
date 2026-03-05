@@ -1,8 +1,13 @@
-
 # Brazilian E-Commerce Sales Dashboard
 
 ## Project Overview
 This project presents an interactive dashboard analyzing Brazilian e-commerce sales data. The dashboard provides comprehensive insights into sales performance, customer behavior, payment methods, and product trends across different regions and time periods.
+
+## Dataset Source
+**Brazilian E-Commerce Public Dataset by Olist**
+- **Link:** https://www.kaggle.com/olistbr/brazilian-ecommerce
+- **Source:** Kaggle
+- **Description:** This dataset contains real Brazilian e-commerce transactions from Olist, including customer data, orders, products, payments, reviews, and geographic information.
 
 ## Tools & Technologies Used
 - **Python** - Data cleaning, exploratory data analysis (EDA), and data processing
@@ -122,6 +127,8 @@ A detailed multi-chart analysis showing:
 - Expand product category insights
 
 ---
+
+**Project created using Python data cleaning, SQL queries, and exploratory data analysis techniques.**
 
 **Project created using Python data cleaning, SQL queries, and exploratory data analysis techniques.**
 Dashobard link:
