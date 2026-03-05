@@ -1,4 +1,4 @@
-<img width="1295" height="726" alt="{493487E0-6B23-45AA-AEC0-A8147E23589E}" src="https://github.com/user-attachments/assets/f9e64f8d-d2c9-4516-9f9f-fa8dcb3f2622" /># Brazilian-sales-analysis.
+
 # Brazilian E-Commerce Sales Dashboard
 
 ## Project Overview
@@ -124,26 +124,5 @@ A detailed multi-chart analysis showing:
 ---
 
 **Project created using Python data cleaning, SQL queries, and exploratory data analysis techniques.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dashobard link:
 https://drive.google.com/file/d/1e_XPK6TfzYacvHQaVWEgqmi43S6VAeQN/view?usp=sharing
